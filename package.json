@@ -24,7 +24,8 @@
     "frontend",
     "web",
     "media-queries",
-    "variables"
+    "variables",
+    "utilitys"
   ],
   "author": "Srikar Phani Kumar Marti",
   "license": "MIT",
