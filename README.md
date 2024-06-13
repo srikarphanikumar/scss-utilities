@@ -1,5 +1,5 @@
 # Package Name:
-@scss/utilities
+scss-utilitys
 
 # Description:
 Helper SCSS Utility Functions/mixins/utilities etc
@@ -20,16 +20,16 @@ MIT
 You can install the package using npm or yarn:
 
 ````sh
-npm install scss-utilities
+npm install scss-utilitys
 ````
 or
 ````sh
-yarn add scss-utilities
+yarn add scss-utilitys
 ````
 
 ## Importing
 ````scss
-@import '~scss-utilities';
+@import '~scss-utilitys';
 ````
 
 ## Files

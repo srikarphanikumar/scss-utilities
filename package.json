@@ -1,15 +1,15 @@
 {
-  "name": "@scss/utilities",
+  "name": "scss-utilitys",
   "version": "1.0.0",
   "description": "Helper SCSS Utility Functions/mixins/utilities etc",
   "main": "src/index.scss",
   "scripts": {
-    "build": "node-sass src/index.scss dist/@scss/utilities.css",
+    "build": "node-sass src/index.scss dist/scss-utilitys.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/srikarphanikumar/scss-utilities"
+    "url": "git+https://github.com/srikarphanikumar/scss-utilities.git"
   },
   "keywords": [
     "scss",
