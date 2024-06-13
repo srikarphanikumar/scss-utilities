@@ -1,5 +1,5 @@
 # Package Name:
-scss-utilities
+@scss/utilities
 
 # Description:
 Helper SCSS Utility Functions/mixins/utilities etc
