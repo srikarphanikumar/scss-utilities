@@ -8,7 +8,7 @@ Helper SCSS Utility Functions/mixins/utilities etc
 Srikar Phani Kumar Marti
 
 ## Version
-1.0.0
+1.0.1
 
 ## License
 MIT
