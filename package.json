@@ -1,8 +1,8 @@
 {
   "name": "scss-utilitys",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helper SCSS Utility Functions/mixins/utilities etc",
-  "main": "src/index.scss",
+  "main": "dist/scss-utilitys.css",
   "scripts": {
     "build": "node-sass src/index.scss dist/scss-utilitys.css",
     "test": "echo \"Error: no test specified\" && exit 1"
