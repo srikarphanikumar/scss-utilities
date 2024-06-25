@@ -1,6 +1,6 @@
 {
   "name": "scss-utilitys",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Helper SCSS Utility Functions/mixins/utilities etc",
   "main": "dist/scss-utilitys.css",
   "scripts": {
